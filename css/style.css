@@ -1,0 +1,96 @@
+.pageheader
+{
+    background: #FDFEFF;
+    border:1px solid black;
+    
+}
+
+
+
+.header ul
+{
+   display: flex;
+   list-style:none;
+   color: rgb(24, 23, 23);
+   font-size:15px;
+}
+
+
+.header li
+{
+    margin-left:13%;
+}
+hr{
+    background:rgb(252, 244, 244);
+    width:78%;
+    margin-left:15%;
+}
+.page-side
+{
+    width:500px;
+    border:1px solid #9ED6EF;
+    text-align: center;
+    background-color: #F3FAFE;
+    height:450px;
+    font-family:Arial, Helvetica, sans-serif;
+  
+}
+.page-side2
+{
+    width:500px;
+    border:1px solid #9ED6EF;
+    text-align: center;
+    background-color: #F3FAFE;
+    height: 450px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.contener-holder ul
+{
+    display: flex;
+    justify-content:center;
+    list-style: none;
+}
+.contener-holder li
+{
+    margin-left:1%;
+}
+#HireTopTalentBtn
+{
+    background-color: #00B674;
+    width:180px;
+    height:40px;
+    margin-top: 40px;
+}
+#HireTopTalentBtn:hover
+{
+    background:#9ED6EF;
+}
+#JoinasfreelencerBTN
+{
+    border:1px solid #00B674;
+    color: #00B674;
+    width:180px;
+    height:40px;
+    margin-top:40px;
+}
+#JoinasfreelencerBTN:hover
+{
+    background:#00B674;
+    color: white;
+}
+/* here is footer */
+
+
+.footer ul
+{
+   display: flex;
+   list-style: none;
+   justify-content: center;
+}
+.footer li{
+    margin-left:20px;
+    font-size:10px;
+}
+
+
