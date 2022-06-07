@@ -1,0 +1,101 @@
+.form h3
+{
+    color:#28C089 ;
+}
+.img-holder
+{
+    text-align: center;
+    justify-content: center;
+}
+.form-Holder
+{
+    background: #FFFFFF;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    border: 1px solid black;
+    width:50%;
+    margin-left:25%;
+    margin-top:10px;
+    height:500px;
+   
+}
+.form-Holder a{
+    color: rgb(78, 156, 246);
+    margin-right:300px;
+    cursor: pointer;
+    
+}
+
+
+
+.form-Holder li
+{
+    cursor: pointer;
+    
+    list-style:none;
+}
+.form-Holder li input
+{
+    width:70%;
+    height:40px;
+  
+}
+.form-Holder p
+{
+    margin-right:360px;
+}
+
+ .form-Holder .left
+{
+    margin-right:330px;
+}
+ 
+#signIn
+{
+    margin-top:10px;
+    margin-left:40px;
+    width:300px;
+    height:50px;
+    background: #28C089;
+    color: white;
+    cursor: pointer;
+    border:1px solid #28C089;
+    font-size:15px;
+}
+#signIn:hover
+{
+    background: #1c7e5a;
+}
+h6
+{
+    font-size: 15px;
+    cursor: pointer;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h6:hover
+{
+    color: rgb(132, 130, 130);
+}
+
+
+
+
+
+
+.footer ul
+{
+   display: flex;
+   list-style: none;
+   justify-content: center;
+}
+.footer li{
+    margin-left:20px;
+    font-size:10px;
+}
+
+.header li:hover
+{
+background:rgb(237, 236, 236);
+color: #00B674;
+}
