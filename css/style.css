@@ -55,14 +55,14 @@ hr{
 {
     margin-left:1%;
 }
-#HireTopTalentBtn
+.makeBtn 
 {
     background-color: #00B674;
-    width:180px;
-    height:40px;
-    margin-top: 40px;
+    width:50%;
+    height:100%;
+    color: black;
 }
-#HireTopTalentBtn:hover
+#makeBtn:hover
 {
     background:#9ED6EF;
 }
@@ -98,6 +98,8 @@ hr{
 background:rgb(237, 236, 236);
 color: #00B674;
 }
+
+
 
 
 
