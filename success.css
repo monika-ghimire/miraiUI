@@ -1,0 +1,13 @@
+/* here is footer */
+
+
+.footer ul
+{
+   display: flex;
+   list-style: none;
+   justify-content: center;
+}
+.footer li{
+    margin-left:20px;
+    font-size:10px;
+}
