@@ -51,17 +51,18 @@
     margin-right:330px;
 }
  
-#signIn
+#signIn 
 {
     margin-top:10px;
-    margin-left:40px;
-    width:300px;
+    margin-left:60px;
+    width:30%;
     height:50px;
     background: #28C089;
     color: white;
     cursor: pointer;
     border:1px solid #28C089;
     font-size:15px;
+    text-decoration: none;
 }
 #signIn:hover
 {
