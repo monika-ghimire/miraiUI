@@ -109,7 +109,7 @@
  .float-righticon
  {
   float: right;
-  background:#00B674;
+  background:#00B674;stroke-width: ;
   color: #fcfbfb;
   height:60px;
   width:60px;;
@@ -123,47 +123,71 @@
 }
 
 /* here for profie syle  */
-.for-profile
+.user-info
 {
-background-color: aqua;
-width:80%;
-margin-left:10%;
+  background-color:#FFFFFF;
+  width:80%;
+  height:100%;
+   margin-left:10%;
+   border:1px solid #00B674;
+   
+   
+ 
 }
-.person-info
+.foreach-presonInfo
 {
-  background-color: #0600b6;
+  height:200px;
+  border-bottom:2px solid gainsboro;
 }
-.img
+
+
+.user-rating
 {
-  width:100px;
+  
+  float:right;
+  background-color: #FFFFFF;
+  height:200px;
+  width: 200px;
+  text-align: center;
+  
+}
+.userinfo
+{
+  height:200px;
+  width:600px;
+  float:right;
+  background-color: #FFFFFF;
+ margin-right:50px;
+}
+.for-img
+{
+  width: 100px;
   height: 100px;
   border-radius:50%;
-  background-color: black;
+  background-color: #FDFEFF;
 }
-.for-profile
+
+.userinfo ul
+{
+   list-style: none;
+}
+.buttons ul
 {
   display: flex;
-}
-.for-profile ul
-{
   list-style: none;
-  text-align: center;
+  
 }
-.icons ul {
-  display: flex;
-  float:right;
+.buttons button
+{
+  margin-left:5px;
+border-radius:50px;
 }
-.user-skil {
-  display: flex;
-}
-.user-skils ul
+
+.user-rating ul
 {
   display: flex;
-
+  list-style: none;
 }
-
-
-
 
 
 
