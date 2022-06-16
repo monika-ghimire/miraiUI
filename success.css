@@ -123,10 +123,46 @@
 }
 
 /* here for profie syle  */
-.for-profile ul
+.for-profile
+{
+background-color: aqua;
+width:80%;
+margin-left:10%;
+}
+.person-info
+{
+  background-color: #0600b6;
+}
+.img
+{
+  width:100px;
+  height: 100px;
+  border-radius:50%;
+  background-color: black;
+}
+.for-profile
 {
   display: flex;
 }
+.for-profile ul
+{
+  list-style: none;
+  text-align: center;
+}
+.icons ul {
+  display: flex;
+  float:right;
+}
+.user-skil {
+  display: flex;
+}
+.user-skils ul
+{
+  display: flex;
+
+}
+
+
 
 
 
